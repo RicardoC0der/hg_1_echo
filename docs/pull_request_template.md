@@ -1,5 +1,9 @@
+<<<<<<< HEAD
  # Tipo de usuario 
  
+=======
+# Tipo de usuario 
+>>>>>>> develop
   [ ] Alpha 
 
   [ ] Bravo 
@@ -11,7 +15,10 @@
   [ ] Echo 
 
   # Seleccione el Tipo de Actividad 
+<<<<<<< HEAD
 
+=======
+>>>>>>> develop
   [ ] Feature  
 
   [ ] Hotfix 
@@ -19,9 +26,14 @@
   [ ] Refactor  
 
   [ ] Performance 
+<<<<<<< HEAD
 
   [ ] Testing 
 
   
 
 
+=======
+  
+  [ ] Testing 
+>>>>>>> develop
